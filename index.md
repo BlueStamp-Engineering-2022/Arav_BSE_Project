@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Arav Anand | Los Gatos High | Mechanical Engineering | Incoming Sophmore
+| Arav | Los Gatos High | Mechanical Engineering | Incoming Sophmore
 
 ![IMG_3374](https://user-images.githubusercontent.com/107636256/174343360-5205d995-5982-4d61-a0ca-3b9098cd22a9.jpg)
 
