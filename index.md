@@ -21,4 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 My first milestone was setting up the Ardiuno and the motor to check to see if my motor worked. I wrote a small code where it turns the motor 180 degrees from its orginal position, waits 2 seconds and then turns 180 degrees back to its orginal position. I had some trouble in the beggining figuring out how to stop void loops from going on continously. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone]
