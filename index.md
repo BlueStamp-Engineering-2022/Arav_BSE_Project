@@ -22,3 +22,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My first milestone was setting up the Ardiuno and the motor to check to see if my motor worked. I wrote a small code where it turns the motor 180 degrees from its orginal position, waits 2 seconds and then turns 180 degrees back to its orginal position. I had some trouble in the beggining figuring out how to stop void loops from going on continously. 
 
 [![First Milestone]
+**# Starter Project**
+
+My starter project was the TV-B-Gone Kit. This project is a remote control that solely turns off the television. TV-B-Gone, like other Universal Remote Controls, works by shining an invisible pulsing light at a television. Infra-Red is the name given to the unseen light. The IR emitter is an LED, which is a light-emitting electronic semiconductor device with a high efficiency. All of these diverse techniques that manufacturers have of pulsing IR light are emulated by TV-B-Gone remote controls. It does so in the same way that practically all other remote controls do: a small computer chip sends out the appropriately timed pulses to the IR LED based on information stored in its own database.But unlike most universal remote controls, TV-B-Gone only emits pulses for POWER, which, of course, is the only important function of any remote control, since this will put televisions in their most beneficial state: OFF. 
+
+[![Arav A Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1655741417/video_to_markdown/images/youtube--l2L5atMuXcE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/l2L5atMuXcE "Arav A Starter Project")
