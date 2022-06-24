@@ -19,7 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
-My first milestone was setting up the Ardiuno and the motor to check to see if my motor worked. I wrote a small code where it turns the motor 180 degrees from its orginal position, waits 2 seconds and then turns 180 degrees back to its orginal position. I had some trouble in the beggining figuring out how to stop void loops from going on continously. 
+My first milestone was setting up the Ardiuno and the motor to check to see if my motor worked. I wrote a small code where it turns the motor 180 degrees from its orginal position, waits 2 seconds and then turns 180 degrees back to its orginal position. I had some trouble in the beggining figuring out how to stop void loops from going on continously. I figured out that I had to use the exit() command for it to repeat once and stop until I uploaded it again. I also did struggle a bit when coding it but I got it down at the end without too much 
 
 [![Arav A Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1655741586/video_to_markdown/images/youtube--xX2YCIsWFto-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/xX2YCIsWFto "Arav A Milestone 1")
 # Starter Project
