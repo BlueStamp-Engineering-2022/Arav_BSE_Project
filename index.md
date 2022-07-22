@@ -8,7 +8,7 @@ Hi my name is Arav and I go to Los Gatos High. My project is the automated door 
 ![IMG_3374](https://user-images.githubusercontent.com/107636256/174343360-5205d995-5982-4d61-a0ca-3b9098cd22a9.jpg)
 
 # Schematic
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/107636256/180490473-be59c8d9-71fa-4ad1-accd-0d71c0073b09.png">
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/107636256/180496190-ed4a2038-bb9d-4204-b286-a3a967b4bf79.png">
 
 # Modifications
 My modifications for my project are a Buzzer Piezo and an NeoPixel LED Ring. I added a buzzer so everytime I pressed the OPEN or CLOSE buttons it would play it a beep indicating that I had Opened or Closed the lock. I struglled a bit when adding the tone() code into my main code. Instead of putting my tone commands into my substrinng code, I created a seperate void function for it called playSound() and added that into the subtring function. After I had made that change, It started working. I may add an actual speaker later on so I can play actual music instead having to create audio. I also added a NeoPixel LED Ring so everytime I would Open the door, it would produce a Green LED Ring and whenever I pressed Close it would produce a Red LED Ring. 
